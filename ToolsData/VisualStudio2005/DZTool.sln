@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DZToolFrame", "DZToolFrame.vcproj", "{A098C157-E3E3-44FC-A185-70EAEE312EA8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DZToolModule.m", "DZToolFrame\DZToolModule.m.vcproj", "{248734AA-50AB-4121-AB46-6B0A03911C8C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DZToolModuleProductAttr.m", "DZToolFrame\DZToolModuleProductAttr.m.vcproj", "{DF213B62-79CF-4079-8BB5-3B78AC2F8E45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A098C157-E3E3-44FC-A185-70EAEE312EA8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A098C157-E3E3-44FC-A185-70EAEE312EA8}.Release|Win32.ActiveCfg = Release|Win32
+		{248734AA-50AB-4121-AB46-6B0A03911C8C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{248734AA-50AB-4121-AB46-6B0A03911C8C}.Release|Win32.ActiveCfg = Release|Win32
+		{DF213B62-79CF-4079-8BB5-3B78AC2F8E45}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DF213B62-79CF-4079-8BB5-3B78AC2F8E45}.Release|Win32.ActiveCfg = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

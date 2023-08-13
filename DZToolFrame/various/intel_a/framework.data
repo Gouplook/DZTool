@@ -1,0 +1,14 @@
+!<mkRTViewData> v1.0.0
+RTV/002/DSI .\intel_a\code\productIC\DZToolFrameIC.required|.\DZToolFrame
+DAT/002/CUS .\intel_a\resources\msgcatalog\Simplified_Chinese\DZToolComponentHeader.CATNls|.\DZToolFrame\CNext\resources\msgcatalog\Simplified_Chinese\DZToolComponentHeader.CATNls
+DAT/002/CUS .\intel_a\resources\msgcatalog\DZToolComponent.CATNls|.\DZToolFrame\CNext\resources\msgcatalog\DZToolComponent.CATNls
+BTV/002/DSI .\intel_a\code\productIC\DZToolFrameIC.xml|.\DZToolFrame
+DAT/002/CUS .\intel_a\resources\msgcatalog\DZToolComponentHeader.CATRsc|.\DZToolFrame\CNext\resources\msgcatalog\DZToolComponentHeader.CATRsc
+DAT/002/CUS .\intel_a\code\dictionary\DZToolFrame.dico|.\DZToolFrame\CNext\code\dictionary\DZToolFrame.dico
+RTV/000/DSI .\intel_a\resources\msgcatalog\DbcsTest\DZToolComponent.CATNls|.\DZToolFrame\CNext\resources\msgcatalog\DZToolComponent.CATNls
+RTV/000/DSI .\intel_a\resources\msgcatalog\DbcsTest\DZToolComponentHeader.CATNls|.\DZToolFrame\CNext\resources\msgcatalog\DZToolComponentHeader.CATNls
+DAT/002/CUS .\intel_a\resources\msgcatalog\Simplified_Chinese\DZToolComponent.CATNls|.\DZToolFrame\CNext\resources\msgcatalog\Simplified_Chinese\DZToolComponent.CATNls
+DAT/002/CUS .\intel_a\resources\msgcatalog\DZToolComponentHeader.CATNls|.\DZToolFrame\CNext\resources\msgcatalog\DZToolComponentHeader.CATNls
+BTV/002/CUS .\intel_a\code\productIC\DZToolFrameIC.script|.\DZToolFrame
+RTV/000/DSI .\intel_a\resources\msgcatalog\NlsTest\DZToolComponentHeader.CATNls|.\DZToolFrame\CNext\resources\msgcatalog\DZToolComponentHeader.CATNls
+RTV/000/DSI .\intel_a\resources\msgcatalog\NlsTest\DZToolComponent.CATNls|.\DZToolFrame\CNext\resources\msgcatalog\DZToolComponent.CATNls

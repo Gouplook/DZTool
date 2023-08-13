@@ -1,0 +1,5 @@
+!<mkRTViewData> v1.0.0
+RTV/002/DSI .\win_b64\code\productIC\DZToolFrameIC.required|.\DZToolFrame
+DAT/002/CUS .\win_b64\code\dictionary\DZToolFrame.dico|.\DZToolFrame\CNext\code\dictionary\DZToolFrame.dico
+BTV/002/CUS .\win_b64\code\productIC\DZToolFrameIC.script|.\DZToolFrame
+BTV/002/DSI .\win_b64\code\productIC\DZToolFrameIC.xml|.\DZToolFrame

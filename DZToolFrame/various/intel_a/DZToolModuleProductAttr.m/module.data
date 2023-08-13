@@ -1,0 +1,5 @@
+!<mkRTViewData> v1.0.0
+BTV/000/CUS .\intel_a\code\lib\DZToolModuleProductAttr.lib|.\DZToolFrame\DZToolModuleProductAttr.m
+INT/000/CUS .\intel_a\code\bin\DZToolModuleProductAttr.pdb|.\DZToolFrame\DZToolModuleProductAttr.m
+INT/000/CUS .\intel_a\code\lib\DZToolModuleProductAttr.exp|.\DZToolFrame\DZToolModuleProductAttr.m
+RTV/001/CUS .\intel_a\code\bin\DZToolModuleProductAttr.dll|.\DZToolFrame\DZToolModuleProductAttr.m

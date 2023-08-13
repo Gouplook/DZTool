@@ -1,0 +1,5 @@
+/I"F:\DZ\DZTool\.\DZToolFrame\DZToolModuleProductAttr.m\src"
+/I"F:\DZ\DZTool\.\DZToolFrame\DZToolModuleProductAttr.m\LocalInterfaces"
+/I"F:\DZ\DZTool\.\DZToolFrame\DZToolModuleProductAttr.m\LocalGenerated\intel_a"
+/I"F:\DZ\DZTool\.\DZToolFrame\PublicInterfaces"
+/I"F:\DZ\DZTool\.\DZToolFrame\ImportedInterfaces\intel_a"
